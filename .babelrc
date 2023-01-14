@@ -1,0 +1,5 @@
+{
+  "presets": [// Presets are a set of plugins
+    "env", "react"
+  ]
+}
